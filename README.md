@@ -1,4 +1,4 @@
-Short instructions for the "JS is the new black" practical lecture.
+Set of short instructions for the "JS is the new black" practical lecture.
 
 Dependencies
 =========
@@ -6,7 +6,9 @@ Dependencies
 GIT version control system 
 ------
 Needed to download task scaffold 
+
 http://git-scm.com/book/en/Getting-Started-Installing-Git
+
 http://git-scm.com/downloads 
 
 Node.js
