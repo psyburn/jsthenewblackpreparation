@@ -17,9 +17,13 @@ http://git-scm.com/downloads
 Some of the commands you'll need:
 
 `git config ...`
+
 `git remote add ...`
+
 `git push ...`
+
 `git pull ...`
+
 `git log ...`
 
 Node.js
@@ -42,8 +46,11 @@ npm install -g grunt-cli
 Some of the commands you'll need:
 
 `grunt`
+
 `grunt serve`
+
 `grunt build`
+
 `grunt bower:install`
 
 [Yeoman](http://yeoman.io/)
@@ -64,7 +71,9 @@ npm install -g bower
 Some of the commands you'll need:
 
 `bower search ...`
+
 `bower install ...`
+
 `bower list ...`
 
 Tasks scaffolds
