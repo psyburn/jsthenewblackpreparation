@@ -1,3 +1,5 @@
+Short instructions for the "JS is the new black" practical lecture.
+
 Dependencies
 =========
 
@@ -30,7 +32,7 @@ npm install -g yo
 npm install -g bower
 ```
 
-Tasks
+Tasks scaffolds
 =========
 
 Backbone
