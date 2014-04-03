@@ -58,6 +58,16 @@ Some of the commands you'll need:
 npm install -g yo
 ```
 
+[Yeoman backbone generator](https://github.com/yeoman/generator-backbone)
+```sh
+npm install -g generator-backbone
+```
+
+[Yeoman angular generator](https://github.com/yeoman/generator-angular)
+```sh
+npm install -g generator-angular
+```
+
 Some of the commands you'll need:
 
 `yo ...`
